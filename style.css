@@ -1,0 +1,183 @@
+.first{
+    margin-bottom: 10px;
+}
+.first a{
+    text-decoration: none;
+}
+.two{
+    margin-bottom: 10px;        
+}
+
+.container-fluid a{
+    text-decoration: none;
+}
+
+/* a{
+    text-decoration: none;
+    color: black;
+} */
+
+.ff{
+ text-align: center;
+ color: white;
+ background-color: gray;
+ margin-top: 30px;
+}
+.footer{
+    background-color: black;
+    color: bisque;
+    line-height: 250%;
+}
+
+li{
+    color: bisque;
+}
+h2{
+    color: bisque;
+    font-size: 180%;
+}
+ul{
+    list-style-type: none;
+}
+
+.biju{
+    margin-top: 20px;
+}
+
+.treeju{
+    margin-top: 20px;
+}
+
+.chothu {
+    margin-top: 20px;
+}
+
+.pratham {
+    padding-left: 100px;
+}
+
+.pratham a{
+    text-decoration: none;
+    color: bisque;
+}
+.p{
+    padding-left: 100px;
+}
+
+.v a{
+    text-decoration: none ;
+    color:black;
+}
+.p a{
+    text-decoration: none;
+    color: bisque;
+}
+.d1{
+    padding-left: 20px;
+   
+}
+
+
+
+/* .mainnav{
+    display: flex;
+    justify-content: space-between;
+} */
+
+.pach{
+    margin-top: 20px;
+}
+
+.lower1{
+    margin-bottom: 10px;
+}
+
+.lower2{
+    margin-bottom: 10px;
+}
+
+.lower3{
+    margin-bottom: 10px;
+}
+
+.lower4{
+    margin-bottom: 10px;
+}
+
+.forml{
+    margin-top: 30px;
+}
+
+.imgg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.footer2{
+    background-color: black;
+    color: beige;
+
+}
+
+.imggg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.low{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    line-height: 500%;
+    
+}
+.countryspace{
+    margin-right: 20px;
+}
+
+.lastone{
+    margin-bottom: 20px;
+    
+}
+
+.lasttwo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: small;
+    text-decoration: none;
+    color: bisque;
+}
+
+.footer3{
+    background-color: black;
+    color: bisque;
+}
+.footer3 a{
+   color: white;
+}
+
+.nav2{
+    background-color: black;
+    color: bisque;
+
+}
+
+.navvv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.before{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.t{
+    margin-top: 20px;
+}
